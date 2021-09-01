@@ -1,6 +1,9 @@
 {
   "name": "to_duties_server",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "ToDuties app - server side",
   "main": "index.js",
   "scripts": {
