@@ -15,7 +15,7 @@ $ npm install
 $ npm start
 ```
 
-###Technical Requirements
+### Technical Requirements
 
   ● Language: TypeScript
   
@@ -53,7 +53,7 @@ $ npm start
 ●  I as a user can be sure that my todos will be persisted so that important information is not lost when server restarts
 
 
-####Still under development features:
+#### Still under development features:
 
 ●  ⚠ (required): I as ​another user ​can collaborate in real-time with ​user ​- so that we can (for example) edit our family shopping-list together
 
