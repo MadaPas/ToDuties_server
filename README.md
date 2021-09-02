@@ -2,13 +2,13 @@
 
 ## Setup
 
-Install the dependencies, set up the proper .env-files and start the server
+Install the dependencies, set up the proper .env-files and start the server https://github.com/MadaPas/ToDuties_server
 ```
 $ cd server
 $ npm install
 $ npm start
 ```
-Install the dependencies, and start the client
+Install the dependencies, and start the client https://github.com/MadaPas/ToDuties_client
 ```
 $ cd client
 $ npm install
@@ -58,7 +58,6 @@ $ npm start
 ●  ⚠ (required): I as ​another user ​can collaborate in real-time with ​user ​- so that we can (for example) edit our family shopping-list together
 
 ● I as a user can make infinite nested levels of subtasks
-
 
 
 
